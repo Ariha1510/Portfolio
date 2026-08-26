@@ -116,8 +116,4 @@ A responsive personal portfolio showcasing my technical skills, projects, achiev
 
 Check out my GitHub repositories to explore my projects, experiments, and development work.
 
-If you find something interesting, feel free to star the repository
-
----
-
-** If you like this portfolio, feel free to star the repository!**
+If you find something interesting, feel free to star the repository.
