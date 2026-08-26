@@ -5,6 +5,9 @@
 A modern, responsive developer portfolio showcasing my projects, technical skills, achievements, and experience in building AI-powered and full-stack applications.
 
  **Live Portfolio:** [View Website](https://arihashree-portfolio.netlify.app/)
+ ##  Resume
+
+[View My Resume]((https://docs.google.com/document/d/1l0Dv4USt5-DEeX49aB1iZ-H1w06sg3U8eyPTytorCQA/edit?tab=t.0))
 
 ---
 
