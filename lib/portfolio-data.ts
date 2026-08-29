@@ -88,7 +88,7 @@ export const PROJECTS = [
     ],
     accent: 'primary',
     icon: 'wallet',
-    logo: 'https://raw.githubusercontent.com/Ariha1510/CASHLENS/main/logo.png',
+    logo: 'https://raw.githubusercontent.com/Ariha1510/CASHLENS/main/logo.png.png',
   },
   {
     type: 'Healthcare Management System',
